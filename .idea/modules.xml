@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/HigherOrLowerProcedural.iml" filepath="$PROJECT_DIR$/.idea/HigherOrLowerProcedural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HigherOrLowerGame/.idea/HigherOrLowerProcedural.iml" filepath="$PROJECT_DIR$/../HigherOrLowerGame/.idea/HigherOrLowerProcedural.iml" />
     </modules>
   </component>
 </project>
